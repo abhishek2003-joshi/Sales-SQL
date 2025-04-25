@@ -22,12 +22,12 @@ GitHub for version control
 Optional integration with Power BI, Streamlit, or Tableau
 
 ## 🚀 Highlights
-## ✅ Core SQL operations: JOIN, GROUP BY, ORDER BY
+✅ Core SQL operations: JOIN, GROUP BY, ORDER BY
 
-## ✅ Aggregate functions: SUM, AVG
+✅ Aggregate functions: SUM, AVG
 
-## ✅ Subqueries and view creation
+✅ Subqueries and view creation
 
-## ✅ Query performance improved with indexing
+✅ Query performance improved with indexing
 
 ## 📌 Explore queries in: file.sql
