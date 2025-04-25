@@ -30,4 +30,6 @@ Optional integration with Power BI, Streamlit, or Tableau
 
 ✅ Query performance improved with indexing
 
-## 📌 Explore queries in: file.sql
+## 📌 Explore queries in: 
+
+   file.sql
